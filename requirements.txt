@@ -1,0 +1,5 @@
+evadb
+numpy
+pandas
+openai
+requests
