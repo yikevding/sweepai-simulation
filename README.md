@@ -1,7 +1,7 @@
 # Sweep AI Simulation Using EvaDB
 
 ## Overview
-This repository simulates the usage of Sweep AI to create new files by using EvaDB. Sweep is an AI tool to help transform feature requests and bug reports into actual code changes. This project uses the power of the OpenAI GPT-3 model for new code generation. Currently, we support two versions. The simple version, by running `main.py`, supports creating and modifying files locally. The advanced version, by running `app.py`, currently supports creating and modifying files both locally and remotely on GitHub repositories.
+This repository simulates the usage of Sweep AI to create new files by using EvaDB. Sweep is an AI tool to help transform feature requests and bug reports into actual code changes. This project uses the power of the OpenAI GPT-3 model for new code generation. Currently, we support two versions. The simple version, by running `main.py`, supports creating and modifying files locally. The advanced version, by running `app.py`, currently supports creating and modifying files both locally and remotely on GitHub repositories. You can refer to the two notebooks provided for example usage.
 
 ## Prerequisites
 Before running this project on your end, make sure you have the following requirements satisfied on your end:
